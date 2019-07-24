@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: Flask-project
+Version: 0.1
+Summary: UNKNOWN
+Home-page: ['https://github.com/TestPern1', 'https://github.com/elmaxk']
+Author: Max K., Chris V.
+Author-email: max.koutouzov@outlook.com
+License: UNKNOWN
+Description: 
+        Flask project outline:
+        - Create a REST API for website
+        - Create a light weight website fits to the API
+        - Add web content
+        - Convert to web application
+        
+Platform: UNKNOWN
